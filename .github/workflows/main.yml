@@ -2,7 +2,7 @@ name: Generate Kotlin
 
 on:
   schedule:
-      
+      # her 6 saatte bir
     - cron: "0 */6 * * *"
 
   workflow_dispatch:
@@ -12,20 +12,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v2.6.4
 
       - name: Generate Kotlin
         uses: Platane/snk@master
         id: kotlin-snake
         with:
           github_user_name: AidenLM
-          
+          # Bu satırlar dosyaları "output" adında bir dalda oluşturur.
           gif_out_path: dist/github-contribution-grid-kotlin.gif
           svg_out_path: dist/github-contribution-grid-kotlin.svg
-          
-          lang: kotlin
-          stroke_color: "hsl(220, 100%, 60%)"
-          bg_color: "hsl(220, 100%, 90%)"
 
       - run: git status
 
