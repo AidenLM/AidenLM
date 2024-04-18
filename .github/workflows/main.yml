@@ -2,6 +2,7 @@ name: Generate Kotlin
 
 on:
   schedule:
+    # her 6 saatte bir
     - cron: "0 */6 * * *"
 
   workflow_dispatch:
@@ -9,16 +10,23 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash -euxo pipefail
 
     steps:
       - uses: actions/checkout@v2
+
+      - name: Set up Node.js 16.x
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16.x
 
       - name: Generate Kotlin
         uses: Platane/snk@master
         id: kotlin-snake
         with:
           github_user_name: AidenLM
-          # Bu satırlar dosyaları "output" adında bir dalda oluşturur.
           gif_out_path: dist/github-contribution-grid-kotlin.gif
           svg_out_path: dist/github-contribution-grid-kotlin.svg
 
@@ -28,7 +36,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
+          branch: main
           force: true
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
