@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://wallpapercave.com/wp/wp8476360.jpg" alt="MasterHead" />
+    <img src="https://steamcommunity.com/sharedfiles/filedetails/?id=2055825172" alt="MasterHead" />
     <h1>Hi 👋, I'm Mehmet Akif Elem</h1>
     <h3>An avid mobile developer with a keen eye on the latest trends and innovations in the tech world.</h3>
     <ul style="text-align: left; list-style-type: none; padding-left: 0;">
