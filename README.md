@@ -1,5 +1,4 @@
 <div style="text-align: center;">
-     />
     <h1>Hi 👋, I'm Mehmet Akif Elem</h1>
     <h3>An avid mobile developer with a keen eye on the latest trends and innovations in the tech world.</h3>
     <ul style="text-align: left; list-style-type: none; padding-left: 0;">
