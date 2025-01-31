@@ -21,7 +21,7 @@
     </p>
     <div style="display: flex; justify-content: center;">
         <p style="margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aidenlm&show_icons=true&locale=en&layout=compact" alt="aidenlm" /></p>
-        <p><img src="https://github-readme-stats.vercel.app/api?username=aidenlm&show_icons=true&locale=en" alt="aidenlm" /></p>
+        <p><img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&v=1" alt="stats" /></p>
     </div>
     <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenlm&" alt="aidenlm" /></p>
 </div>
