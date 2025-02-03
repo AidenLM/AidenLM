@@ -22,5 +22,5 @@
     <div style="display: flex; justify-content: center;">
         <p style="margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aidenlm&show_icons=true&locale=en&layout=compact&v=2" alt="aidenlm" /></p>
     </div>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenlm&v=1" alt="aidenlm" /></p>
+    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=aidenlm&v=2" alt="aidenlm" /></p>
 </div>
