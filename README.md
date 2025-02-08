@@ -17,7 +17,6 @@
         <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
     </p>
     <div style="display: flex; justify-content: center;">
         <p style="margin-right: 10px;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aidenlm&show_icons=true&locale=en&layout=compact&v=2" alt="aidenlm" /></p>
