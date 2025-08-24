@@ -27,15 +27,15 @@
 ### 📊 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AidenLM&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500&cache_seconds=7200" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AidenLM&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLM&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=7200" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLM&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AidenLM&theme=tokyonight&hide_longest_streak=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=AidenLM&theme=tokyonight" alt="Streak" />
 </p>
 
 <p align="center">
