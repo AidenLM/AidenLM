@@ -27,22 +27,18 @@
 ### 📊 Highlights
 
 <p align="center">
-  <!-- Genel istatistik -->
   <img src="https://github-readme-stats.vercel.app/api?username=AidenLM&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500&cache_seconds=7200" alt="Stats" />
 </p>
 
 <p align="center">
-  <!-- En çok kullanılan diller -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLM&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=7200" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=AidenLM&theme=tokyonight&hide_longest_streak=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AidenLM&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" />
 </p>
 
