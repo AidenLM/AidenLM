@@ -4,8 +4,8 @@
 ---
 
 ### 📫 Contact
-- 🌐 Portfolio: [www.akifelem.me](https://www.akifelem.me)  
-- 📧 Email: **etab5personal@gmail.com**  
+- 🌐 Portfolio: [www.akifelem.me](https://www.akifelem.me)
+- 📧 Email: **etab5personal@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/makifelem](https://linkedin.com/in/makifelem)
 
 ---
@@ -27,19 +27,23 @@
 ### 📊 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makifelem&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500&cache_seconds=7200" alt="Stats" />
+  <!-- Genel istatistik -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AidenLM&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&card_width=500&cache_seconds=7200" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makifelem&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=7200" alt="Top Languages" />
+  <!-- En çok kullanılan diller -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLM&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=7200" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=makifelem&theme=tokyonight&hide_longest_streak=true" alt="Streak" />
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=AidenLM&theme=tokyonight&hide_longest_streak=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=makifelem&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" />
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AidenLM&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" />
 </p>
 
 ---
@@ -47,6 +51,6 @@
 ### 🔗 Quick Links
 <p align="center">
   <a href="https://www.akifelem.me"><img src="https://img.shields.io/badge/Portfolio-Visit-1abc9c?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://github.com/makifelem"><img src="https://img.shields.io/badge/GitHub-makifelem-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/AidenLM"><img src="https://img.shields.io/badge/GitHub-AidenLM-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
   <a href="https://linkedin.com/in/makifelem"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
 </p>
