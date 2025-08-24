@@ -27,10 +27,6 @@
 ### 📊 Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AidenLM&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" alt="Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AidenLM&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
