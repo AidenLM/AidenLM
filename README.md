@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Akif Elem</h1>
-<h3 align="center">Mobile Application Developer || AI Developer Intern</h3>
+<h3 align="center">Mobile Application Developer || AI Developer</h3>
 
 ---
 
