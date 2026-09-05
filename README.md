@@ -4,8 +4,8 @@
 ---
 
 ### 📫 Contact
-- 🌐 Portfolio: [www.akifelem.me](https://www.akifelem.me)
-- 📧 Email: **etab5personal@gmail.com**
+- 🌐 Portfolio: [www.akifelem.com](https://www.akifelem.com)
+- 📧 Email: **akifelem@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/makifelem](https://linkedin.com/in/makifelem)
 
 ---
