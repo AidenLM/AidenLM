@@ -22,9 +22,6 @@
   <img src="https://streak-stats.demolab.com?user=AidenLM&theme=tokyonight" alt="Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AidenLM&theme=tokyo-night&hide_border=true&area=true&radius=8" alt="Activity Graph" />
-</p>
 
 ---
 
